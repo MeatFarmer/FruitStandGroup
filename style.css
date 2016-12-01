@@ -1,0 +1,13 @@
+.title{
+  font-weight: bold;
+  font-size: 25px;
+}
+#inv{
+  text-align: center;
+  border: solid black 5px;
+}
+button{
+  display:block;
+  width: 30%;
+  margin: 0px auto;
+}
